@@ -1,0 +1,127 @@
+{
+  "updated": "2026-09-01T00:00:00+00:00",
+  "count": 15,
+  "note": "Seed data compiled at launch. The GitHub Action refreshes this file automatically every 3 days from live Google News searches, including scraping a photo from each linked article where one is available.",
+  "stories": [
+    {
+      "title": "Lowest global biomass burning emissions on record during the first half of 2026",
+      "link": "https://atmosphere.copernicus.eu/lowest-global-biomass-burning-emissions-record-during-first-half-2026",
+      "source": "Copernicus Atmosphere Monitoring Service",
+      "category": "Emissions Reduction",
+      "published": "2026-07-01T00:00:00+00:00",
+      "image": "https://atmosphere.copernicus.eu/sites/default/files/styles/og_image/public/2026-07/header%2027_0.jpg?itok=phpn6B9q"
+    },
+    {
+      "title": "China Briefing: CO2 emissions 'flat or falling'",
+      "link": "https://www.carbonbrief.org/china-briefing-19-february-2026-co2-emissions-flat-or-falling-first-tariff-lifted-ma-jun-on-carbon-data/",
+      "source": "Carbon Brief",
+      "category": "Emissions Reduction",
+      "published": "2026-02-19T00:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Renewable power generation records its fastest growth ever",
+      "link": "https://www.irena.org/News/pressreleases/2026/Jul/Renewable-Power-Generation-Records-Its-Fastest-Growth-Ever",
+      "source": "IRENA",
+      "category": "Energy Transition",
+      "published": "2026-07-15T00:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Clean energy additions to break records in 2026",
+      "link": "https://environmentamerica.org/center/updates/clean-energy-additions-to-break-records-in-2026/",
+      "source": "Environment America",
+      "category": "Energy Transition",
+      "published": "2026-03-03T00:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "New records set in the renewable energy marathon",
+      "link": "https://blog.ucs.org/john-rogers/new-records-set-in-the-renewable-energy-marathon/",
+      "source": "Union of Concerned Scientists",
+      "category": "Energy Transition",
+      "published": "2026-06-20T00:00:00+00:00",
+      "image": "https://blog.ucs.org/wp-content/uploads/2026/04/Copy-of-Blog-Lead-Image-Template227.jpg"
+    },
+    {
+      "title": "Earth Day 2026: Climate wins you should know about",
+      "link": "https://impakter.com/earth-day-2026-the-good-news-climate-wins/",
+      "source": "Impakter",
+      "category": "Sustainability",
+      "published": "2026-04-22T00:00:00+00:00",
+      "image": "https://impakter.com/wp-content/uploads/2026/04/Earth-Day-1-scaled.jpg"
+    },
+    {
+      "title": "7 inspiring climate wins in early 2026",
+      "link": "https://globalchoices.org/7-inspiring-climate-wins-in-early-2026/",
+      "source": "Global Choices",
+      "category": "Sustainability",
+      "published": "2026-02-15T00:00:00+00:00",
+      "image": "https://globalchoices.org/wp-content/uploads/2026/02/different-people-joining-global-warming-protest.jpg"
+    },
+    {
+      "title": "What went right this week: a triumph of people power, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-17-of-2026/",
+      "source": "Positive News",
+      "category": "Sustainability",
+      "published": "2026-04-25T00:00:00+00:00",
+      "image": "https://www.positive.news/wp-content/uploads/2026/04/Goldman_Credit-Christian-EscobarMora-for-the-Goldman-Environmental-Prize_08.jpeg"
+    },
+    {
+      "title": "Solar railways and stork villages: positive environmental stories from 2026",
+      "link": "https://www.euronews.com/2026/07/09/carbon-sucking-fungi-and-forever-chemical-crackdowns-positive-environmental-stories-from-2",
+      "source": "Euronews",
+      "category": "Environment",
+      "published": "2026-07-09T00:00:00+00:00",
+      "image": "https://images.euronews.com/articles/stories/09/60/61/69/1200x675_cmsv2_675b16f1-b5f5-523f-8211-3a6ee122f31e-9606169.jpg"
+    },
+    {
+      "title": "Good news stories for Endangered Species Day 2026",
+      "link": "https://www.fisheries.noaa.gov/feature-story/good-news-stories-endangered-species-day-2026",
+      "source": "NOAA Fisheries",
+      "category": "Environment",
+      "published": "2026-05-16T00:00:00+00:00",
+      "image": "https://www.fisheries.noaa.gov/s3/2026-05/morgonbond_steelhead_1-1.jpg"
+    },
+    {
+      "title": "Wildlife comebacks: which animals are returning to the wild?",
+      "link": "https://globalrewilding.earth/wildlife-comebacks-which-animals-are-returning-to-the-wild/",
+      "source": "The Global Rewilding Alliance",
+      "category": "Environment",
+      "published": "2026-06-05T00:00:00+00:00",
+      "image": "https://globalrewilding.earth/wp-content/uploads/Wildlife-comeback-1.png"
+    },
+    {
+      "title": "Three climate technologies breaking through in 2026",
+      "link": "https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/",
+      "source": "MIT Technology Review",
+      "category": "Climate Tech",
+      "published": "2026-01-15T00:00:00+00:00",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/GettyImages-2182761656.jpg?resize=1200,600"
+    },
+    {
+      "title": "15 climate tech startups to watch in 2026",
+      "link": "https://trellis.net/article/climate-tech-startups-to-watch-2026-application/",
+      "source": "Trellis",
+      "category": "Climate Tech",
+      "published": "2026-03-01T00:00:00+00:00",
+      "image": "https://trellis.net/wp-content/uploads/2026/03/trellis_editorial_career_fellowships_1470x894.png"
+    },
+    {
+      "title": "Rakiura predator control success gives hope for future kākāpō return",
+      "link": "https://www.forestandbird.org.nz/resources/rakiura-predator-control-success-gives-hope-future-kakapo-return",
+      "source": "Forest & Bird NZ",
+      "category": "New Zealand",
+      "published": "2026-06-10T00:00:00+00:00",
+      "image": "https://www.forestandbird.org.nz/sites/default/files/styles/ratio_2_x_1_2x_large_/public/2021-01/home-hero-kakapo.jpg?itok=kzuKfCxH"
+    },
+    {
+      "title": "Kākāpō breeding season 2026",
+      "link": "https://blog.doc.govt.nz/2025/06/27/kakapo-breeding-season-2026/",
+      "source": "Department of Conservation (NZ)",
+      "category": "New Zealand",
+      "published": "2026-06-27T00:00:00+00:00",
+      "image": "https://i0.wp.com/blog.doc.govt.nz/wp-content/uploads/2025/06/95A6BCA3-114E-42EA-9C24-1A4AA906E662.jpg?fit=960%2C1200&ssl=1"
+    }
+  ]
+}

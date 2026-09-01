@@ -1,0 +1,288 @@
+:root {
+  --bg: #f6f1e4;
+  --surface: #fffdf8;
+  --text: #26362a;
+  --text-muted: #6a7863;
+  --accent: #4f7a55;
+  --accent-dark: #35583b;
+  --accent-soft: #e6efdd;
+  --gold: #c98a3e;
+  --gold-soft: #f6e6cd;
+  --border: #e5ddc9;
+  --star: #c98a3e;
+  --shadow: 0 10px 28px -16px rgba(53, 74, 45, 0.35);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171d15;
+    --surface: #1f271b;
+    --text: #eef2e5;
+    --text-muted: #a3b096;
+    --accent: #82c48d;
+    --accent-dark: #a6dcae;
+    --accent-soft: #29341f;
+    --gold: #e3ac5e;
+    --gold-soft: #33291a;
+    --border: #333d2b;
+    --star: #e3ac5e;
+    --shadow: 0 10px 28px -16px rgba(0, 0, 0, 0.6);
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.55;
+  position: relative;
+}
+
+h1, h2 {
+  font-family: "Fraunces", Georgia, serif;
+}
+
+.wrap {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+}
+
+/* Soft organic background blobs, decorative only */
+.canopy {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(480px 320px at 8% -5%, rgba(79, 122, 85, 0.16), transparent 65%),
+    radial-gradient(420px 300px at 100% 8%, rgba(201, 138, 62, 0.14), transparent 60%),
+    radial-gradient(600px 420px at 50% 115%, rgba(79, 122, 85, 0.10), transparent 65%);
+}
+
+.site-header {
+  padding: 40px 0 26px;
+  border-bottom: 1px solid var(--border);
+}
+
+.header-inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 12px;
+}
+
+.brand {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 640px;
+}
+
+.brand-mark {
+  font-size: 2.1rem;
+  line-height: 1;
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 10px;
+  box-shadow: var(--shadow);
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: var(--accent-dark);
+  letter-spacing: -0.01em;
+}
+
+.tagline {
+  margin: 8px 0 0;
+  color: var(--text-muted);
+  font-size: 0.98rem;
+  max-width: 52ch;
+}
+
+.updated-line {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 26px 0 22px;
+}
+
+.tab {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: 9px 15px;
+  border-radius: 999px;
+  font-family: inherit;
+  font-size: 0.86rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.1s ease;
+}
+
+.tab:hover { border-color: var(--accent); transform: translateY(-1px); }
+
+.tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.fav-count {
+  display: inline-block;
+  min-width: 1.4em;
+  padding: 0 6px;
+  margin-left: 4px;
+  border-radius: 999px;
+  background: rgba(0,0,0,0.12);
+  font-size: 0.78em;
+}
+
+.tab.active .fav-count { background: rgba(255,255,255,0.28); }
+
+.story-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  padding-bottom: 28px;
+}
+
+.loading, .empty-state {
+  color: var(--text-muted);
+  padding: 48px 0;
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+.card-media {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  background: var(--accent-soft);
+  overflow: hidden;
+}
+
+.card-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.card-media.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6rem;
+}
+
+/* Per-category placeholder gradients, used when an article has no scrapeable photo */
+.card-media.placeholder[data-category="Emissions Reduction"] { background: linear-gradient(135deg, #dfe6d6, #b9c9ad); }
+.card-media.placeholder[data-category="Energy Transition"] { background: linear-gradient(135deg, var(--gold-soft), #e3ac5e55); }
+.card-media.placeholder[data-category="Sustainability"] { background: linear-gradient(135deg, #d9ecd0, #9fc98f); }
+.card-media.placeholder[data-category="Environment"] { background: linear-gradient(135deg, #cfe8d4, #7fae86); }
+.card-media.placeholder[data-category="Climate Tech"] { background: linear-gradient(135deg, #d7e6e8, #9fbfc4); }
+.card-media.placeholder[data-category="New Zealand"] { background: linear-gradient(135deg, #e6efdd, #b9c9ad); }
+
+.category-pill {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--accent-dark);
+  background: rgba(255, 253, 248, 0.92);
+  padding: 5px 10px;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.fav-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 253, 248, 0.92);
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 1.15rem;
+  color: var(--border);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.fav-btn[aria-pressed="true"] { color: var(--star); }
+
+.card-body {
+  padding: 16px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.card h2 a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.card h2 a:hover { color: var(--accent-dark); text-decoration: underline; }
+
+.card-meta {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 22px 0 44px;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
