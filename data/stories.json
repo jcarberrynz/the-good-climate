@@ -1,127 +1,126 @@
 {
-  "updated": "2026-09-01T00:00:00+00:00",
+  "updated": "2026-09-04T02:43:17.527559+00:00",
   "count": 15,
-  "note": "Seed data compiled at launch. The GitHub Action refreshes this file automatically every 3 days from live Google News searches, including scraping a photo from each linked article where one is available.",
   "stories": [
     {
-      "title": "Lowest global biomass burning emissions on record during the first half of 2026",
-      "link": "https://atmosphere.copernicus.eu/lowest-global-biomass-burning-emissions-record-during-first-half-2026",
-      "source": "Copernicus Atmosphere Monitoring Service",
-      "category": "Emissions Reduction",
-      "published": "2026-07-01T00:00:00+00:00",
-      "image": "https://atmosphere.copernicus.eu/sites/default/files/styles/og_image/public/2026-07/header%2027_0.jpg?itok=phpn6B9q"
-    },
-    {
-      "title": "China Briefing: CO2 emissions 'flat or falling'",
-      "link": "https://www.carbonbrief.org/china-briefing-19-february-2026-co2-emissions-flat-or-falling-first-tariff-lifted-ma-jun-on-carbon-data/",
-      "source": "Carbon Brief",
-      "category": "Emissions Reduction",
-      "published": "2026-02-19T00:00:00+00:00",
+      "title": "BEI Construction Expands Battery Storage Portfolio to 4.5 GWh Across Western U.S. - Construction Owners",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUl3cW53Rk45VW1yUURMNGZScWh4NHlBY19sNnR3bGdZWjJpaDVlbTRnbHNLdHBaeGVlT2k3dl9zS0p1U2RWTTlOdUo1MzRkanZiTHVkWUZuZ0FTZ1NWTEpRQk5KTXdaUG5zd21wM1lEZk93N0NPTG00Z0JsdGtUN28yQkhFNFAzMFd5aXQtUGh1RlhIc3FTVnE4UDR4aG9BeVY3Zlc0N1d4d2VubEpMUWlTVlFDVjBITkV0Zw?oc=5",
+      "source": "Construction Owners",
+      "category": "Energy Transition",
+      "published": "2026-09-04T01:33:48+00:00",
       "image": null
     },
     {
-      "title": "Renewable power generation records its fastest growth ever",
-      "link": "https://www.irena.org/News/pressreleases/2026/Jul/Renewable-Power-Generation-Records-Its-Fastest-Growth-Ever",
-      "source": "IRENA",
+      "title": "Hawaii Energy Connection Surpasses 1,000 FranklinWH Residential Energy Storage System Installations as State Weighs Paying Homeowners for Battery Power - The Malaysian Reserve",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxON3BLM3RlbE5jVUNqVk1KTjhtV3JBbjI1aEVuLUYwNWJZZVN5eVJETU42VDM2OG1udldtamFxbHJaNzdhY3UxNVl2YXUxSjl6dHRYZTdxRDFmdFdOZkpNbWllYkpuVTlucXNPd0Z2N2ViVFRldHBHOHpDME1wYlo1NnVUaUhtNmdXc0I2T2xVMGMzU2xCejFSVmF6NHpuNzAzWHVPVFA1RXoxNzJjQ2VFWXdvN1BjcVJXUnNoMU9wNG1PVXZKS3ZnT0d4QnhnOThDY2hGMEVpWWlzZlJZVy1xeDZFS3hvZ3FhaHoyYlZyQjlMMzd3bWtkT2thZ1lLNjNHYWcxdDVYUUFueDJQY2pnTnBLZzdSeDQwS0xKUUNyTQ?oc=5",
+      "source": "The Malaysian Reserve",
       "category": "Energy Transition",
-      "published": "2026-07-15T00:00:00+00:00",
+      "published": "2026-09-03T18:58:43+00:00",
       "image": null
     },
     {
-      "title": "Clean energy additions to break records in 2026",
-      "link": "https://environmentamerica.org/center/updates/clean-energy-additions-to-break-records-in-2026/",
-      "source": "Environment America",
-      "category": "Energy Transition",
-      "published": "2026-03-03T00:00:00+00:00",
+      "title": "The Home Depot Announces 5-Million-Tree Reforestation Initiative with Strategic Wood Suppliers - The Home Depot",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYS1ZdTM3b0JwNTJMc0R6M1JJYnVUUkw4QXFTcU5nYVJOMFVhRG5aSjNYV2FZZ1lDVDZjWVA0cVNyRGpuLUJfWGF6SmhadG1sNWJ1LUt6SlMwb0d1d0NnMlBEbWNiNHU2VVh0M0VBMzM4SzJ0M0RmVktYZERsX05seGZIYjhWa21VWmZwN25uaUEzOGRvWDJBbmJXTGl3Zw?oc=5",
+      "source": "The Home Depot",
+      "category": "Sustainability",
+      "published": "2026-09-03T11:01:23+00:00",
       "image": null
     },
     {
-      "title": "New records set in the renewable energy marathon",
-      "link": "https://blog.ucs.org/john-rogers/new-records-set-in-the-renewable-energy-marathon/",
-      "source": "Union of Concerned Scientists",
-      "category": "Energy Transition",
-      "published": "2026-06-20T00:00:00+00:00",
-      "image": "https://blog.ucs.org/wp-content/uploads/2026/04/Copy-of-Blog-Lead-Image-Template227.jpg"
-    },
-    {
-      "title": "Earth Day 2026: Climate wins you should know about",
-      "link": "https://impakter.com/earth-day-2026-the-good-news-climate-wins/",
-      "source": "Impakter",
+      "title": "NFWF Announces Nearly $2.4 Million in Grants from the Grassland Resilience and Conservation Initiative - National Fish and Wildlife Foundation",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0l0QVhWcUpTUTV5UUtGUXA3U1FrSi1wazVBZ2FpM3MzS2xSb0FUVXVyTUNKaFpZLXVCQm1BcnpIaDZ4WldCZmdIS2NfR3ZZYl9nWlpzYjA4SGJvTVE2ZjNMYVd1bGZvQmZkNmtpWVJPSkFQOFpHU2UtblF1X1BlZWg5V2daRE95S2Q5czV3WkVGU0xCS2s4WlZfcHB5am82UnhEbmp2cTRMdU1BbHlpV1N2anE?oc=5",
+      "source": "National Fish and Wildlife Foundation",
       "category": "Sustainability",
-      "published": "2026-04-22T00:00:00+00:00",
-      "image": "https://impakter.com/wp-content/uploads/2026/04/Earth-Day-1-scaled.jpg"
+      "published": "2026-09-03T10:03:07+00:00",
+      "image": null
     },
     {
-      "title": "7 inspiring climate wins in early 2026",
-      "link": "https://globalchoices.org/7-inspiring-climate-wins-in-early-2026/",
-      "source": "Global Choices",
+      "title": "CARE reports California carpet recycling progress - Construction & Demolition Recycling",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjB2OGswSk5yVlAtOUFfanpKektzUmhmdF9yVmF2aHVrZVFmRjlhVjlYT2FDTTFUSmw4Z0dyQW1Nd3ZfMEJTUTJBbTJsUnRLQmFFT1NaR0c0Rk5BZDM2WmluWEI1M2lHZjB6eXJCSDhYNDl6VnZYVWV6elh2ZkFYalBQNlQ1MVpPRGY1U041UQ?oc=5",
+      "source": "Construction & Demolition Recycling",
       "category": "Sustainability",
-      "published": "2026-02-15T00:00:00+00:00",
-      "image": "https://globalchoices.org/wp-content/uploads/2026/02/different-people-joining-global-warming-protest.jpg"
+      "published": "2026-09-03T08:30:00+00:00",
+      "image": null
     },
     {
-      "title": "What went right this week: a triumph of people power, plus more",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-17-of-2026/",
-      "source": "Positive News",
-      "category": "Sustainability",
-      "published": "2026-04-25T00:00:00+00:00",
-      "image": "https://www.positive.news/wp-content/uploads/2026/04/Goldman_Credit-Christian-EscobarMora-for-the-Goldman-Environmental-Prize_08.jpeg"
-    },
-    {
-      "title": "Solar railways and stork villages: positive environmental stories from 2026",
-      "link": "https://www.euronews.com/2026/07/09/carbon-sucking-fungi-and-forever-chemical-crackdowns-positive-environmental-stories-from-2",
-      "source": "Euronews",
-      "category": "Environment",
-      "published": "2026-07-09T00:00:00+00:00",
-      "image": "https://images.euronews.com/articles/stories/09/60/61/69/1200x675_cmsv2_675b16f1-b5f5-523f-8211-3a6ee122f31e-9606169.jpg"
-    },
-    {
-      "title": "Good news stories for Endangered Species Day 2026",
-      "link": "https://www.fisheries.noaa.gov/feature-story/good-news-stories-endangered-species-day-2026",
-      "source": "NOAA Fisheries",
-      "category": "Environment",
-      "published": "2026-05-16T00:00:00+00:00",
-      "image": "https://www.fisheries.noaa.gov/s3/2026-05/morgonbond_steelhead_1-1.jpg"
-    },
-    {
-      "title": "Wildlife comebacks: which animals are returning to the wild?",
-      "link": "https://globalrewilding.earth/wildlife-comebacks-which-animals-are-returning-to-the-wild/",
-      "source": "The Global Rewilding Alliance",
-      "category": "Environment",
-      "published": "2026-06-05T00:00:00+00:00",
-      "image": "https://globalrewilding.earth/wp-content/uploads/Wildlife-comeback-1.png"
-    },
-    {
-      "title": "Three climate technologies breaking through in 2026",
-      "link": "https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/",
-      "source": "MIT Technology Review",
+      "title": "Wales & West Utilities launches green hydrogen vehicle trial in Swansea - bioenergytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN000TEprRTlWM2MxYVpDbTJ0em9iWE9DRjBQNWIzTTkxcnVFTmF6MFVGX0I4YkxFZUJMVkVjQkc5ZWhQUlRjZXpMQTFXanFsSVRjMDdpYzUwT2NzZmM3T0I1T3BsLWtta0ZHQ0xxQnFlVUVXcTRXNm1hekFMQ0xRSDYwY2Z5dzRULWJ4Wkt5M3hRdmhfNEtRZ21xOTJ6Zw?oc=5",
+      "source": "bioenergytimes.com",
       "category": "Climate Tech",
-      "published": "2026-01-15T00:00:00+00:00",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/GettyImages-2182761656.jpg?resize=1200,600"
+      "published": "2026-09-03T08:20:06+00:00",
+      "image": null
     },
     {
-      "title": "15 climate tech startups to watch in 2026",
-      "link": "https://trellis.net/article/climate-tech-startups-to-watch-2026-application/",
-      "source": "Trellis",
+      "title": "Tanachira Group Advances Renewable Energy to Boost Efficiency and Cut Emissions - Nation Thailand",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMER1NnU1WWNaZzhPMm4zbzRYaWZZZXA2LW5wVDdLNkVMM0lpdE15ZXd4bW9PNjhwSXdYOEhOYzJQajgzdHVGTzJMSlJtcjd6UWtFZFNZd1BobFlxbnFTRWdsYzFyNXN1S1E?oc=5",
+      "source": "Nation Thailand",
+      "category": "Emissions Reduction",
+      "published": "2026-09-03T03:08:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Revolutionary carbon capture project launches in New Jersey - Finance & Commerce",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkNTOWxia3ZaU2twYkQ5aURJYnROM2hTT1dsSjlwT3hWT19hRERKYmp5SjU2ekRYbTZiTzJSMUJyNEhvU1p1c1R3Zjg2Q2NYVXlNZUZoYWpFYlFZdWhuSjF5NW5Cb0dNdFhqOFpxQmlRbmZtY2tqRU9udEVDLUtZRHd2ZTFyZlFfOGZsYmREYVYwQQ?oc=5",
+      "source": "Finance & Commerce",
       "category": "Climate Tech",
-      "published": "2026-03-01T00:00:00+00:00",
-      "image": "https://trellis.net/wp-content/uploads/2026/03/trellis_editorial_career_fellowships_1470x894.png"
+      "published": "2026-09-02T23:19:59+00:00",
+      "image": null
     },
     {
-      "title": "Rakiura predator control success gives hope for future kākāpō return",
-      "link": "https://www.forestandbird.org.nz/resources/rakiura-predator-control-success-gives-hope-future-kakapo-return",
-      "source": "Forest & Bird NZ",
-      "category": "New Zealand",
-      "published": "2026-06-10T00:00:00+00:00",
-      "image": "https://www.forestandbird.org.nz/sites/default/files/styles/ratio_2_x_1_2x_large_/public/2021-01/home-hero-kakapo.jpg?itok=kzuKfCxH"
+      "title": "Switzerland launches cross-border BECCS CO2 supply chain - gasworld",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHpJR3ktSHhZWHNlZFVLc2E3NFVFc3RMX3NPMVpJaldNbzRRdEN3LUJNZ3h1YXF6Ny16TnBQYkxpdWtUR0hrLWpQYXpNN2NKWHdmUVVEcURKR0duSnN1eGlZVGo4eERWVmh0bWV0TXBJT1dDc18tWXdnZmtYQ29EbzcwT2VUbDhLMlZ3cE9mZlZUdy14NFphNThtRmZkczNWRFRKR21EQQ?oc=5",
+      "source": "gasworld",
+      "category": "Climate Tech",
+      "published": "2026-09-02T13:00:50+00:00",
+      "image": null
     },
     {
-      "title": "Kākāpō breeding season 2026",
-      "link": "https://blog.doc.govt.nz/2025/06/27/kakapo-breeding-season-2026/",
-      "source": "Department of Conservation (NZ)",
+      "title": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUFQQmdTNVZGem0tVGI5MmxBa3dSNlRtVkZIUDZhQW15TlpwVWhQNi1jMkVWWUlXdkQ5Y1RzemxGQkMtdXdSZXRUeUw1UUw1QVRsWXBLbS16N1czV0lVa3VqdEtueFlQVmFMc0VLaE9BLVFoWEZBYTFyMHB4NFZTRFZHZ0kyY1pySDZibnlfVTRDQUdvc2hFMU5UVTR1QWFzUXQtUzJGcmM?oc=5",
+      "source": "The Guardian",
       "category": "New Zealand",
-      "published": "2026-06-27T00:00:00+00:00",
-      "image": "https://i0.wp.com/blog.doc.govt.nz/wp-content/uploads/2025/06/95A6BCA3-114E-42EA-9C24-1A4AA906E662.jpg?fit=960%2C1200&ssl=1"
+      "published": "2026-09-02T01:31:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
+      "source": "Department of Energy (.gov)",
+      "category": "Energy Transition",
+      "published": "2026-09-01T16:30:20+00:00",
+      "image": null
+    },
+    {
+      "title": "Recovery time between global coral bleaching events is shrinking - Oceanographic Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd28ySUM2aFh5cWFNMDhTRUN4Y2hKQWhRcXhvcXRCRWlaYnliSHFlSkMwb21UMkhFWlJyZ2VhdDgzTE1BNzBIT2lpZWxmQ3BQZTRoOVdYTjRfSUpzNFNuTHkxaElWekVFREVlQ3hLSmFYX25jODNmYUlENVRYQ1FBNFNjREk4cmwxLXZrM1VEeXFXS1NaRmxxZUhmZmp2UnVGRXRNcDhYRQ?oc=5",
+      "source": "Oceanographic Magazine",
+      "category": "Environment",
+      "published": "2026-09-01T12:17:26+00:00",
+      "image": null
+    },
+    {
+      "title": "Rome, ATAC receives €116.7 million national funding for zero emission buses and green hydrogen infrastructure - Sustainable Bus",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc2tBeFJCSzhMTU5mZzJSZkFZU25QbVkyOVVEU3B3OVlIUm9TVmdMVGF6SVNYNDR5SEpYT3BtaThfRVhtS0VkVGN3Tmg0NUZCNG1PN0hZa1c3UUZvYmhSZzV2d1ZkZ0xQU2puRWdXZWdRS01FeEdxUzBKU2Zkb2h1dFRscmFTNUxFa0V2SkkwYnd6QTJhTWVn?oc=5",
+      "source": "Sustainable Bus",
+      "category": "Climate Tech",
+      "published": "2026-09-01T09:32:52+00:00",
+      "image": null
+    },
+    {
+      "title": "Just bury your trash - Works in Progress Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Qb2F4c3o5b3hoOE1SM2JxOUpGUVBMbGV6TVl1a3d1YlIwQXg4STF5a1FVdzV4UkF0RFYtaDZxdTFQdlREUlFTRGE4dVRLX1QtbEt3TC1wMWFITUVfcHRuQnVyaWk?oc=5",
+      "source": "Works in Progress Magazine",
+      "category": "Sustainability",
+      "published": "2026-09-01T09:31:58+00:00",
+      "image": null
+    },
+    {
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHpJaDc2dEZJUzliVEtkcS1oTExYb3dfcnQ2d1hHay0yOENvTDFlaTRwY0RFOF9UYWIzOTl2am5pR2pLakRSMGt1MnFQSnllZEJPRGxtR1JjcXBJN3hFUEtJb2U5UGFtUkFzdWY2YllCdDJKNjJnejhsUHlucE80VU5FQ1ZHdEVGbkY2NklRQ0U2NGYwdW1LVlBDdjVUbGM?oc=5",
+      "source": "Electrek",
+      "category": "Energy Transition",
+      "published": "2026-09-01T04:01:00+00:00",
+      "image": null
     }
   ]
 }
