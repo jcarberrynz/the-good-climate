@@ -1,37 +1,77 @@
 {
-  "updated": "2026-09-04T02:54:09.364846+00:00",
+  "updated": "2026-09-07T03:56:48.728622+00:00",
   "count": 15,
   "stories": [
     {
-      "title": "BEI Construction Expands Battery Storage Portfolio to 4.5 GWh Across Western U.S. - Construction Owners",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUl3cW53Rk45VW1yUURMNGZScWh4NHlBY19sNnR3bGdZWjJpaDVlbTRnbHNLdHBaeGVlT2k3dl9zS0p1U2RWTTlOdUo1MzRkanZiTHVkWUZuZ0FTZ1NWTEpRQk5KTXdaUG5zd21wM1lEZk93N0NPTG00Z0JsdGtUN28yQkhFNFAzMFd5aXQtUGh1RlhIc3FTVnE4UDR4aG9BeVY3Zlc0N1d4d2VubEpMUWlTVlFDVjBITkV0Zw?oc=5",
-      "source": "Construction Owners",
+      "title": "Oil and gas misses out in Australia's latest carbon capture funding round - Upstream Online",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONi1sYW92UXI4bmhfSXo5Mmp3OVVncFFXeVE2elh2WEFER3hWYnpRWFczd05pNDRSSVh3RV9UZFVYUDgyRTFXdndHdjdNU1Z4djh1R3FyWllLaENTdWp4Y1NwNkNVTTdnd1IyNEJ3RU1tVVlTVGMxYzdEVDROdGlVNkZMaHBXaHFOWHlXOGJjUFhKMEV4a25CWHg1MmFvY3VpV3QyLS1fOEJWZ2FMaUJhS21jWG5BZ2h2ZkxuSUhFOEZKVUpHc20tNzRB?oc=5",
+      "source": "Upstream Online",
+      "category": "Climate Tech",
+      "published": "2026-09-06T08:24:46+00:00",
+      "image": null
+    },
+    {
+      "title": "China Puts Carbon to Work: Transforming Emissions into Economic Assets - Alwihda Info",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUjNheklYT21la0t1QTI1NWkxaS1hY1dqQVcweUtZRDc1RkdvdmxicVpoNnhETW11N3JVSVMzWGtDUlJxaWh1TEJ1N3ZyRzVLX21VQjA1NnVmYjR3TnNPNU9ZMmhBX1lyZXhSanpzOHdVV3FCaHJIaXZReG1udm0yVWpnSE1CeEdMZkRpWlY5YmZFNFBCTnFNMlVKcGlXRTg?oc=5",
+      "source": "Alwihda Info",
+      "category": "Emissions Reduction",
+      "published": "2026-09-06T04:17:18+00:00",
+      "image": null
+    },
+    {
+      "title": "Call for Applications: Reef Rescue Initiative Program - fundsforNGOs",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0NXbU5xRXZORS1ib05yRS1TRFVjSURvdjZCS29wTFd2N0tGNUFNNmRwR2M4eVVnR3hfU2xVUVpnQVBKR2gxTkJmMm1SRGVvUGNJOWhldjctU196NWttb2NyZDFpVGF6SFlhcmNsMjVIamlGOFZ1TG9BakVaQkcyOXk3a2o2TkgwUmxGWVpTbTl1ekxScmsyR2dR0gGfAUFVX3lxTFB3SnlPeTFOWWRIeGZoU3pjTG1UZTcxZHl4SE41T3FPZUk2LWgtNHFHVkdSMThKSF95Z0JUVnJ1RExtX0NkU0M2WWdHY09ZaFdXZDB1Wk11M192Z1BUWTJ3YnVxNk50UndyY1c1UGJUZzZ2aU1MLXpuTFQwSXMtSTRqcWxnYzlJWDVtcWtrSERCcGhjSzZHMkVfeFlXSG9wRQ?oc=5",
+      "source": "fundsforNGOs",
+      "category": "Environment",
+      "published": "2026-09-05T11:50:02+00:00",
+      "image": null
+    },
+    {
+      "title": "Arizona leads nation in battery storage growth, overtaking Texas - KTAR News 92.3 FM",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PVkd1bzQtTkppajh1bC1xZE9LdTJDUGxOT09MaFgxWXRiX3hmaUlfM3Bpd3lXYWN6MjBEeWFpRFVMOTcybzg0b2FtMzJrel9sNUdPZE9MaUVFR0VqVVJOb3JWSnJadTZJd1AtS1V4Rkk5bS1JOTFMTzJfeTk?oc=5",
+      "source": "KTAR News 92.3 FM",
       "category": "Energy Transition",
-      "published": "2026-09-04T01:33:48+00:00",
+      "published": "2026-09-04T20:56:27+00:00",
       "image": null
     },
     {
-      "title": "Hawaii Energy Connection Surpasses 1,000 FranklinWH Residential Energy Storage System Installations as State Weighs Paying Homeowners for Battery Power - The Malaysian Reserve",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxON3BLM3RlbE5jVUNqVk1KTjhtV3JBbjI1aEVuLUYwNWJZZVN5eVJETU42VDM2OG1udldtamFxbHJaNzdhY3UxNVl2YXUxSjl6dHRYZTdxRDFmdFdOZkpNbWllYkpuVTlucXNPd0Z2N2ViVFRldHBHOHpDME1wYlo1NnVUaUhtNmdXc0I2T2xVMGMzU2xCejFSVmF6NHpuNzAzWHVPVFA1RXoxNzJjQ2VFWXdvN1BjcVJXUnNoMU9wNG1PVXZKS3ZnT0d4QnhnOThDY2hGMEVpWWlzZlJZVy1xeDZFS3hvZ3FhaHoyYlZyQjlMMzd3bWtkT2thZ1lLNjNHYWcxdDVYUUFueDJQY2pnTnBLZzdSeDQwS0xKUUNyTQ?oc=5",
-      "source": "The Malaysian Reserve",
+      "title": "Glen Cove launches a cigarette and litter recycling initiative - Herald Community Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUNDNXY0dlBvUzBSV19RblZiVWhIcE1FTlBYOVlLcTI1UFZYR3RINmR2NUxuSmhnZ1BjbWFTMnl5alRNS0JqZ1NVNERvNlg3aWpjY1lJVC1tdHY3YktIdXdNc0JLQlhLaVVNRVFnOXZDS0xZekRDTFZJZHJGcHBYV2E4NnlGRzJrTzZYZVFyTXBONy1vUWRuWjF3U21YU0wwZzdRek51Y0xweTlEd01abA?oc=5",
+      "source": "Herald Community Newspapers",
+      "category": "Sustainability",
+      "published": "2026-09-04T17:52:00+00:00",
+      "image": null
+    },
+    {
+      "title": "U.S. Energy Storage Deployments Set Quarterly Record - Industrial Info Resources",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjMyWEExQWJtUUU5MUVvMUQtLUhqREdkbVctbWwzOVhNQzBaRk90MDFkMWRicG5YRDUxQ1YtQUtfY01PTXVrd2djb19Qd1czYVNUSnpkajNhNUJRRU9yZUNOek1yM2U3N2d1eUwwX3hLNGo3d2xvRDVfSENJcHFFZHVkS2ctVllBQkZWM3ctSTJCZ2NpbjdBeS04bFZJLUIzSjkzbA?oc=5",
+      "source": "Industrial Info Resources",
       "category": "Energy Transition",
-      "published": "2026-09-03T18:58:43+00:00",
+      "published": "2026-09-04T09:05:01+00:00",
       "image": null
     },
     {
-      "title": "The Home Depot Announces 5-Million-Tree Reforestation Initiative with Strategic Wood Suppliers - The Home Depot",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYS1ZdTM3b0JwNTJMc0R6M1JJYnVUUkw4QXFTcU5nYVJOMFVhRG5aSjNYV2FZZ1lDVDZjWVA0cVNyRGpuLUJfWGF6SmhadG1sNWJ1LUt6SlMwb0d1d0NnMlBEbWNiNHU2VVh0M0VBMzM4SzJ0M0RmVktYZERsX05seGZIYjhWa21VWmZwN25uaUEzOGRvWDJBbmJXTGl3Zw?oc=5",
-      "source": "The Home Depot",
-      "category": "Sustainability",
-      "published": "2026-09-03T11:01:23+00:00",
+      "title": "Solar-plus-storage is having a global growth spurt - canarymedia.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXNnZWtFcmhvN0tadzhWX1dwWE5EVVJ4SzlhMnY4LUxTd1hiSGduY0VPWmJUQkpnRDRJQVNxMVlBNFBnSkh2MDRHT3ZCRGlPYS01LWJTM1h2dVVJQlVFbHpvSVprLTJYOG9uNFVPWExDdHRtMnN0LTJCNDhJZndjMVlpZ2EzcmhV?oc=5",
+      "source": "canarymedia.com",
+      "category": "Energy Transition",
+      "published": "2026-09-04T07:30:00+00:00",
       "image": null
     },
     {
-      "title": "NFWF Announces Nearly $2.4 Million in Grants from the Grassland Resilience and Conservation Initiative - National Fish and Wildlife Foundation",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0l0QVhWcUpTUTV5UUtGUXA3U1FrSi1wazVBZ2FpM3MzS2xSb0FUVXVyTUNKaFpZLXVCQm1BcnpIaDZ4WldCZmdIS2NfR3ZZYl9nWlpzYjA4SGJvTVE2ZjNMYVd1bGZvQmZkNmtpWVJPSkFQOFpHU2UtblF1X1BlZWg5V2daRE95S2Q5czV3WkVGU0xCS2s4WlZfcHB5am82UnhEbmp2cTRMdU1BbHlpV1N2anE?oc=5",
-      "source": "National Fish and Wildlife Foundation",
+      "title": "How to balance soil health and wildlife conservation - Farm Progress",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFczQm9WUDhEZVpVSGpzMmthWU9SOWI5aFhfWklYdFBEcE9RREFaTmxTRmNoS205WXd6WTJyTDE1Y0U4cUh1UHdEUFB3Rjh6ZkZVM00wN0E1VmdIQnZvWmR2TmpPbFAtdzhHcGdSS2lXTlpRR19uY0NBR090MTg3ZXV4bGpqamI5c0h5djN3Yw?oc=5",
+      "source": "Farm Progress",
       "category": "Sustainability",
-      "published": "2026-09-03T10:03:07+00:00",
+      "published": "2026-09-04T06:24:16+00:00",
+      "image": null
+    },
+    {
+      "title": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
+      "source": "Department of Energy (.gov)",
+      "category": "Energy Transition",
+      "published": "2026-09-03T19:21:47+00:00",
       "image": null
     },
     {
@@ -43,67 +83,11 @@
       "image": null
     },
     {
-      "title": "Wales & West Utilities launches green hydrogen vehicle trial in Swansea - bioenergytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN000TEprRTlWM2MxYVpDbTJ0em9iWE9DRjBQNWIzTTkxcnVFTmF6MFVGX0I4YkxFZUJMVkVjQkc5ZWhQUlRjZXpMQTFXanFsSVRjMDdpYzUwT2NzZmM3T0I1T3BsLWtta0ZHQ0xxQnFlVUVXcTRXNm1hekFMQ0xRSDYwY2Z5dzRULWJ4Wkt5M3hRdmhfNEtRZ21xOTJ6Zw?oc=5",
-      "source": "bioenergytimes.com",
-      "category": "Climate Tech",
-      "published": "2026-09-03T08:20:06+00:00",
-      "image": null
-    },
-    {
-      "title": "Tanachira Group Advances Renewable Energy to Boost Efficiency and Cut Emissions - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMER1NnU1WWNaZzhPMm4zbzRYaWZZZXA2LW5wVDdLNkVMM0lpdE15ZXd4bW9PNjhwSXdYOEhOYzJQajgzdHVGTzJMSlJtcjd6UWtFZFNZd1BobFlxbnFTRWdsYzFyNXN1S1E?oc=5",
-      "source": "Nation Thailand",
-      "category": "Emissions Reduction",
-      "published": "2026-09-03T03:08:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Revolutionary carbon capture project launches in New Jersey - finance-commerce.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkNTOWxia3ZaU2twYkQ5aURJYnROM2hTT1dsSjlwT3hWT19hRERKYmp5SjU2ekRYbTZiTzJSMUJyNEhvU1p1c1R3Zjg2Q2NYVXlNZUZoYWpFYlFZdWhuSjF5NW5Cb0dNdFhqOFpxQmlRbmZtY2tqRU9udEVDLUtZRHd2ZTFyZlFfOGZsYmREYVYwQQ?oc=5",
-      "source": "finance-commerce.com",
-      "category": "Climate Tech",
-      "published": "2026-09-02T23:19:59+00:00",
-      "image": null
-    },
-    {
-      "title": "Switzerland launches cross-border BECCS CO2 supply chain - gasworld",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHpJR3ktSHhZWHNlZFVLc2E3NFVFc3RMX3NPMVpJaldNbzRRdEN3LUJNZ3h1YXF6Ny16TnBQYkxpdWtUR0hrLWpQYXpNN2NKWHdmUVVEcURKR0duSnN1eGlZVGo4eERWVmh0bWV0TXBJT1dDc18tWXdnZmtYQ29EbzcwT2VUbDhLMlZ3cE9mZlZUdy14NFphNThtRmZkczNWRFRKR21EQQ?oc=5",
-      "source": "gasworld",
-      "category": "Climate Tech",
-      "published": "2026-09-02T13:00:50+00:00",
-      "image": null
-    },
-    {
-      "title": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUFQQmdTNVZGem0tVGI5MmxBa3dSNlRtVkZIUDZhQW15TlpwVWhQNi1jMkVWWUlXdkQ5Y1RzemxGQkMtdXdSZXRUeUw1UUw1QVRsWXBLbS16N1czV0lVa3VqdEtueFlQVmFMc0VLaE9BLVFoWEZBYTFyMHB4NFZTRFZHZ0kyY1pySDZibnlfVTRDQUdvc2hFMU5UVTR1QWFzUXQtUzJGcmM?oc=5",
-      "source": "theguardian.com",
-      "category": "New Zealand",
-      "published": "2026-09-02T01:31:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
-      "source": "Department of Energy (.gov)",
-      "category": "Energy Transition",
-      "published": "2026-09-01T16:30:20+00:00",
-      "image": null
-    },
-    {
       "title": "Recovery time between global coral bleaching events is shrinking - Oceanographic Magazine",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd28ySUM2aFh5cWFNMDhTRUN4Y2hKQWhRcXhvcXRCRWlaYnliSHFlSkMwb21UMkhFWlJyZ2VhdDgzTE1BNzBIT2lpZWxmQ3BQZTRoOVdYTjRfSUpzNFNuTHkxaElWekVFREVlQ3hLSmFYX25jODNmYUlENVRYQ1FBNFNjREk4cmwxLXZrM1VEeXFXS1NaRmxxZUhmZmp2UnVGRXRNcDhYRQ?oc=5",
       "source": "Oceanographic Magazine",
       "category": "Environment",
       "published": "2026-09-01T12:17:26+00:00",
-      "image": null
-    },
-    {
-      "title": "Rome, ATAC receives €116.7 million national funding for zero emission buses and green hydrogen infrastructure - Sustainable Bus",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc2tBeFJCSzhMTU5mZzJSZkFZU25QbVkyOVVEU3B3OVlIUm9TVmdMVGF6SVNYNDR5SEpYT3BtaThfRVhtS0VkVGN3Tmg0NUZCNG1PN0hZa1c3UUZvYmhSZzV2d1ZkZ0xQU2puRWdXZWdRS01FeEdxUzBKU2Zkb2h1dFRscmFTNUxFa0V2SkkwYnd6QTJhTWVn?oc=5",
-      "source": "Sustainable Bus",
-      "category": "Climate Tech",
-      "published": "2026-09-01T09:32:52+00:00",
       "image": null
     },
     {
@@ -115,11 +99,27 @@
       "image": null
     },
     {
-      "title": "The US added a record 20.2 GWh of battery storage in just 3 months - Electrek",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHpJaDc2dEZJUzliVEtkcS1oTExYb3dfcnQ2d1hHay0yOENvTDFlaTRwY0RFOF9UYWIzOTl2am5pR2pLakRSMGt1MnFQSnllZEJPRGxtR1JjcXBJN3hFUEtJb2U5UGFtUkFzdWY2YllCdDJKNjJnejhsUHlucE80VU5FQ1ZHdEVGbkY2NklRQ0U2NGYwdW1LVlBDdjVUbGM?oc=5",
-      "source": "Electrek",
-      "category": "Energy Transition",
-      "published": "2026-09-01T04:01:00+00:00",
+      "title": "What Causes Coral Bleaching on the Great Barrier Reef? - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjRPNXF4NWMxSlAxWFprRE43S3c0dHV2UkNHZklYcmV1YXRlM2gzM0lGdGRMMUdub0VxNzc0UUw0cUxsNGFiUUVpUGxwRWVEM3FCT0t6Mjg2RzBRa3hWLTN4Rm9IckYxa3Y4SFNXZDMyR29aZnZxQl9MbFR6dlBSYmNiUk00WDRRa3lqSQ?oc=5",
+      "source": "Britannica",
+      "category": "Environment",
+      "published": "2026-09-01T05:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Road to net zero - Nestlé Global",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ITHBZdFdiVER0ZXdWLTc2ZUFrV3o1bkZTeURxY2ZyaEMtWF81Mzd3Wm5aWmc3M2RDSk1JcFRVSk1ZSmtjakhzaU1lS21ZZ1dCdTdKcXFpZzcwWlRsdXBxYWZmbUljbFMyQ0dWZzN1T3kxT0Fi?oc=5",
+      "source": "Nestlé Global",
+      "category": "Emissions Reduction",
+      "published": "2026-08-25T12:16:32+00:00",
+      "image": null
+    },
+    {
+      "title": "Why we should pay landowners to plant natives - NZ Herald",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaTRYakY3Sm9ueU5OTUZWZDMtVndpMXBrMHVIQjdhUUpHVUs5bnZyc3pZWDdTYzlOUTJLMkRWbGtxN3JPdGVrdmVuM2RxaHQyNTdaZ3VhenVSZm85M1Q4TmcxMUItUk9SYXRiaFRZRzlVWTU1MnU5NnpYV1BqSE5VdVRtdnhvNTVyUjJUNUR3VDYxQmpIYWpLZ0o0eHpwWncxbWhDTXZtSW93VVU1TDJGY01BTENhSDU1N3BDV01BWXRCVndLajIzNXROSHVaU1RqYkZnNlU0LVQtQ2dFWWU4aDNIcmZjRUVwQXJaal82c3ZyVXZWUDFHMg?oc=5",
+      "source": "NZ Herald",
+      "category": "New Zealand",
+      "published": "2026-08-21T07:00:00+00:00",
       "image": null
     }
   ]
