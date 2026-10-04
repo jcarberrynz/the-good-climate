@@ -1,101 +1,85 @@
 {
-  "updated": "2026-10-01T05:12:57.758643+00:00",
+  "updated": "2026-10-04T05:17:03.214935+00:00",
   "count": 15,
   "stories": [
+    {
+      "title": "Washington climate tech founders score funding as AI boom drains investor cash - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzVUc2UtQXJQd3Q3YjROUS1SOUUtUTRaVmhQZVRybVlaVXRFZ09Yc2t0M1lkbk42YVl2d2plRU14ZVpqRFBUUjZuRzgtYXRvczVRWGRXa3VraFRmY05sX0VjUHFKM0JlWnpTLThIUmpLYXhFdHNOVFhZbm45LWk5d3N2U1VfZDZ0T0M2MEpSVWpSV2VQYnBrZzJiRmQ0VWNWemJzaWJpVHl0VWx4VlE?oc=5",
+      "source": "GeekWire",
+      "category": "Climate Tech",
+      "published": "2026-10-03T21:01:23+00:00",
+      "image": null
+    },
+    {
+      "title": "What Honda’s Solid-State Battery Breakthrough Tells About The Future Of EV Tech - Top Speed",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnE3VFpqaGJXMndTMDN4VkJXUy16eHh5a29zR05HS3pwU3k2NmU1X2E4SHJTTWNpQndmdGJmeWo1aHVMSnZhbFFodDY0UmlfZTNzMndNY0t6YllLZHdMcXd4ZEZNSXpLd3IwX0RrUlhwelBadVB5SDdaRnRCZV9RQlFSWERrMWxBYUVJSkJoMEVJQ0swdnc?oc=5",
+      "source": "Top Speed",
+      "category": "Climate Tech",
+      "published": "2026-10-03T14:00:16+00:00",
+      "image": null
+    },
+    {
+      "title": "A conservation success story for New Zealand's heaviest insect - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkY0NVVWRXa2p0RmdmZEtaV0djZFRmNFZ3b0l4M0xvcUhfZDh6RlVYQVJjRUg5cUNHM3o3c0ZsZ2VZclBiSFBJdHVpa2hhNlJ3aDVQMmZrRVVNZW5zRlAzVTlpOERLLUZHXzRxTDh5dUVKazM4TXlMTzh3RWg?oc=5",
+      "source": "Phys.org",
+      "category": "Sustainability",
+      "published": "2026-10-02T14:00:01+00:00",
+      "image": null
+    },
+    {
+      "title": "U.S. solar and storage face cost headwinds under fragmented trade, McKinsey report finds - pv magazine USA",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjlIbHVzcjVKYjZoUGNuSEV1M0RtWFNlNm5KUlk4WnlUZTduc1FSQUhwaWxFdmxaTDA4eGFCMEdCWGFSN2h4ZTQ0S09DOGtwTVZ3MFFoUW1uOWxwQlRNZTBaSlN5VkdodzY4dG1RMlo3dVFKVzU3VXNpMmR4NldnTzV1dU1NQmxRWTVxdGNON1RFcVpuaDhwYnZWQzJrOV8ycW9FVnBpVXZJbDRERXF3QUJOaXRTQXJFclc3a2o0Uk1IWHB3?oc=5",
+      "source": "pv magazine USA",
+      "category": "Energy Transition",
+      "published": "2026-10-02T11:08:16+00:00",
+      "image": null
+    },
+    {
+      "title": "Bendable Battery Breakthrough: Nanowire Cathode Lets Lithium-Sulfur Cells Wrap Around Drone Legs - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcW5EcnRkZWNpNGVZR053Yk10WlZhZVNjS1BDRnNKNVJpZVdWZHhySlV4YmhqYlpvNjdUcUZLWC1pdGRocENmempRTWsyU00tNjBtVEw0NFhwMXZ2UUFmVVUzNW0zYW1oSXdyMW55MmF1MGZhQmVwS3FqN0ZWbXNSQTR3aTNKT1JEU0lSWjBGMXJFSFN6LUh0NWFybzhwanFKSDF1MGl5bTAxekdlSE5SWGtQYXBqaEY2NV9Kaw?oc=5",
+      "source": "Bioengineer.org",
+      "category": "Climate Tech",
+      "published": "2026-10-02T09:09:58+00:00",
+      "image": null
+    },
+    {
+      "title": "Adani Green Energy expands operational battery storage capacity to 6.63 GWh - ESS News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2FhVno0VW82OUZxejhWak1qOTBOUFp0MGI2TTZtUTJ5RWw0Qmg1N1NzR2NKb0I1TGFGNV9VTE1wUkxQT09TekJPWkNqOVl0VmNvUl9LT1A3WnYtbFE3LWk1alpEVkJueG5pczBzc0htY2FSQjFLZ05Hc2VaY1YtWllVYUNCR3VfbDR1WTYxQWVoaUdSZkxjNDZKa0JyZk9ic1ZQZUt6bXhwV1hnX3lVanlR?oc=5",
+      "source": "ESS News",
+      "category": "Energy Transition",
+      "published": "2026-10-02T09:01:24+00:00",
+      "image": null
+    },
+    {
+      "title": "Scotland’s Elusive 'Highland Tigers' Welcome Wild-Born Kittens In Conservation Milestone - Country Living Magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUURoLW1xMWJrRmVMcERieG5vWmpWMVZiRjBEZmJmeVZyZWVkZ1IwdmRSckNrcHJzcDBHcnZma0xpbHQtZmVUd1QtS0dDNGMxekcxYnF5UFlFRFdXQkJHT25XQ2RQOUNockZzQldwaVNzNlFFMGw3SGxuUEhnWW5PT2JoLU1lbDVjVVoyS21pUlFhdw?oc=5",
+      "source": "Country Living Magazine",
+      "category": "Sustainability",
+      "published": "2026-10-01T15:03:35+00:00",
+      "image": null
+    },
     {
       "title": "ACCIONA’s Decarbonisation Fund Drives Lower-Carbon Construction - ACCIONA | Australia",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazZCMUFfU1BCdV9kZDZTZ1ZGdGZyM2NibFlqaWRCQy12QldoLThPSmdBZ3FnTFBYV01waHpEaUNIVGFjMUYyWFdCbFN1SzY2bUdIUmpOMkJ5T1hyTTZCcy1QLTJKQ3l4LUhEQ0tLMm1MWng3ckFFUVFmUm8yUXVaWVZKUlJVYU9nME9PSnltbmNKSGg2ajRWNDh4SXdja2FVazZwY0ZyTzMtUUtWQ29OejF3?oc=5",
       "source": "ACCIONA | Australia",
       "category": "Emissions Reduction",
-      "published": "2026-10-01T04:55:58+00:00",
+      "published": "2026-10-01T10:51:36+00:00",
       "image": null
     },
     {
-      "title": "Tigo Energy Builds on 80MW of C&I Solar Growth in Czechia with GO Optimized ESS for Residential - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWnBYdTdpVVF1dTFpOXhoRFN4YU8yUktGS1pCOVBEbG5UT0ZER2hXU2JRdmJ5VW9fT19LN0xFc3lPdm5yaWdhUW11NnB4S01FSnYydzlNSTFHYUVYZUh2N0ExV28wOXRzRzZJajdNU2tIaWtlVG8ySm1fV2UwWDJibnRSb0JHazBuT25KN2lrakZZQWdFd0hrU0xJc0VaM2NzaVo3cmJ6VEpIc1NTNVBycy1MN0RCZ1g1RGhyMkxIN2k1Q3phMjN2QzgtU3d2dDVYdTl2T1hxQWhhNmJkSEVwNXB6QnFpUQ?oc=5",
-      "source": "Business Wire",
+      "title": "Clean Energy Resources to Meet Data Center Electricity Demand - Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3BpVTdBYWozS0QzbFdJakhBcUltUHd6T3RDQ0ZJZ3VYZjFNejEwWlR6MUlLdklGdlMycXpQbkhGcHBXRVFiVDhSQ3J1dWdJT0RxT3AzdXhnRFlWcEJUdzA1Vzdmb3cwbGQ0eWR6aWVUWTNuYlc3Y3BuUzRiRHVwOEdrN0dkUnIzQW9tYQ?oc=5",
+      "source": "Department of Energy (.gov)",
       "category": "Energy Transition",
-      "published": "2026-10-01T04:00:00+00:00",
+      "published": "2026-09-30T19:31:24+00:00",
       "image": null
     },
     {
-      "title": "Global Battery Electrolyte Market to Reach USD 50.98 Bn. by 2034 as EV Expansion, Grid-Scale Energy Storage and Next-Generation Battery Technologies Accelerate Demand Maximize Market Research Reports - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOT0kwd2lwRnpjb0VIdF93WXprZEs2WEtIWWIyQzlaOU9lUGFwOWRub3E2VG4tdEpxWS1ZSkp2eWg5NGQ5blo4ZV9kYnZWVmpyZzVDaExJM3IycWpiRFRtUDJYSmxiNFRGS3EyaFg2VDdMVEkycnZTMkRhY295UU1CTDF2NGpDSEZkYWQ0VWViVzNGLWlEVFcyREN6NzVjTllEaS1vRjl5TURHQUZVY0pQb1FPX3BJRmN6SzZ4bVBBcWo0VEFnQlFLN21JOXFrMVQyXzFhOWdLSVhsQVpQUVBKdWJNLUd6RllHQndneFlQeGdNMzZKaC03V3Z6cVVpTDFoeHJkdEZGS3FVbmNVSkJmakxDT3dlcTdXcGpJUEpfQTBkVXNVdHRRYld5cXdHMlhwY2dhd0JyT1Q4b1RldC1rMzFDUnNjVUFOcjEyTWUwa3Q5NUlqUVVEMlp5bGVteVMwMWN2azZRSWwxSUxGZmc?oc=5",
-      "source": "PR Newswire",
-      "category": "Energy Transition",
-      "published": "2026-09-30T21:30:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Arq Publishes 2025 Sustainability Report Highlighting PAC Growth, GAC Challenges and Environmental Progress - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONW0xclNyRG5jWU5odTM2OEdpdFN0c2VVZlB1d203QjBWVTFEdWxndmduSkpYQVpLN1IyTXVZNVJMSGh6MFhGbGNQRW9wNDhLYUZTUjZrbFlGcnNHdzY3S0RqRDIzMnkzbXcwbGtUc0hXMVNtTnBSbFRYNWNkZkZjRlVfLVVnX1Q3UmpvX0dVWnJRWUdWeHVUamRuS195U1NXV1lrZ2ZBc0JhOGZUVnQxbDBZWks5dHk1UDdtcENkUHVvcTZxbzY0aWRrN3lBTDI1eGtRVVRCbWpuUQ?oc=5",
-      "source": "Quiver Quantitative",
-      "category": "Sustainability",
-      "published": "2026-09-30T20:42:00+00:00",
-      "image": null
-    },
-    {
-      "title": "New MHS recycling initiative teaches students responsibility, waste mindfulness - mcalesternews.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSFNoQTR2MFZMWUpsN01JbmJSODZ1SmZ0T0ttajBLN3NQVVNjWHV0bmNJYTFZZFdUX3BlVUZhdVlOOE9VZURaNzUtcGJ2Z3hJQXdIc2hYZlV2RDFrTFpLMWxPYlRmVlJPb3h1WHBRbS1ZYmFfb0t2c3A4aWhhcHhLSG9UVFFWYjZFMUdBbWsyVWItb0hIRXBaNFBGcC1vZ1pGMmhyZnVtOW1kd3JKTUZtVklhUVFZa3BRdnBBa2lGY3NBaVFWdXBIc010OVE4NXBYY19wbWNoRGJEdWZ0Tk1ZSUhrZEp5b29MRUFyenV6aXZVaUZzdWc?oc=5",
-      "source": "mcalesternews.com",
-      "category": "Sustainability",
-      "published": "2026-09-30T15:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Bank of Åland and Doconomy Leverage AI for Global Sustainability Research Initiative - FF News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTllSnNTSmwtOWZqSk5pS3E5d2lWVDlBS0xYT2tjQjEwS3kxc05LLVJ6UkxNcVlycXdHeFNjVTI3RGtqbEdDb1UtT1l3MmJveE55aTdZaVhNTzZQbjdCLXZIYVUxV3F3WUk5bWRMUjRPa0pDcVIydjVHcGFPVllCOU10QVdBQlJsdFVaZC1sNTBHT3BxOUhQS3pqTFY2NXBNMFZnbmduaWtjLWlObXhHVUZ0Zw?oc=5",
-      "source": "FF News",
-      "category": "Sustainability",
-      "published": "2026-09-30T14:58:54+00:00",
-      "image": null
-    },
-    {
-      "title": "Green Hydrogen Hub Pilot Project Launched at the Port of Savona - Fuel Cells Works",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUhjUHlUekRpRXplMGM0clhMMURtRkhfX3N6QTNQblgwOENNcWpIam54ZkVlNHpvLURxSVNBa2pyY19DRFhVbkJ5N3F3dUZBYnpIY1NMaTRpT3VIVG5kU0puRkJWWm5vMUJjUk5ZZlNCa0pHUGJrSGY0WEcxSU82bm1KbkFzVHdrQlo3clBZcE1VZFZuV2tkOEZDTmJtSUpiNktHWUJWbw?oc=5",
-      "source": "Fuel Cells Works",
-      "category": "Climate Tech",
-      "published": "2026-09-30T14:42:00+00:00",
-      "image": null
-    },
-    {
-      "title": "The Science Behind Honda’s Solid-State Battery Breakthrough - Top Speed",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1VtbjVJUmltb0o2R2xpLTluQ29rdURsSjlqOVVwUVpGcFZOR1VyNURoODVRemtzeXFRdzRsblZWOFNuQVhJV09VRGdFYUVMWjN5czZrZEVJVGF0UnlGR04wcTRfUlBGdDZGNUkyZmxJTDdLSVg0UTVEWlV2eDJlaUZhek9Tdw?oc=5",
-      "source": "Top Speed",
-      "category": "Climate Tech",
-      "published": "2026-09-30T14:00:15+00:00",
-      "image": null
-    },
-    {
-      "title": "Trina Storage commissions first battery energy storage project in Portugal with Prosolia Energy - renewableenergymagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWczekFEQmVpYk9ZQV9jbGt4TDFacms1QXVZcUExeVRhWG5rRHlLQzY2WW5TQ1NLdThpOFliX01FajlSdnNXRjNZOXBRb3N2M3lvWmtreTEyQVp0NTlJaEtra2NUeDUwc3hqQzVfN3FDeFRLTWNlcDh2eGQ3cW9najA0RXI2MFFSeGtWcmFLcG9wd3lhdTRVUFlBanFLUHFJRHdubDZ2V2ZHNlNVVktKSw?oc=5",
-      "source": "renewableenergymagazine.com",
-      "category": "Energy Transition",
-      "published": "2026-09-30T11:38:10+00:00",
-      "image": null
-    },
-    {
-      "title": "Green hydrogen production pilot considered for Savona - engine.online",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnRMOTBlSjBQZWJnRVM0WGlNeFhFR29qeXM1Q0pObUhueV9LZnVEbmZmb1RIQlVXeUdPTDM3ODl6bmlJd0E0RTFhMjlpQ0FvbFVNV3pmVUpMMmFvc3VKc1Z6ZHRuRXlDaWVGYlJUY3VTX0htdWxoU3BGblh5Z2c4VXY0TXpGdHk4Z3hPbWJBWEtWZHM?oc=5",
-      "source": "engine.online",
-      "category": "Climate Tech",
-      "published": "2026-09-30T09:46:06+00:00",
-      "image": null
-    },
-    {
-      "title": "Green hydrogen rail freight pilot launched at Port of Savona - WorldCargo News",
+      "title": "Green hydrogen rail freight pilot launched at Port of Savona - worldcargonews.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWTN2TkJmdHJ4RDdWc3F2ME1tSkVabXMyZjNMZVhTUFNYVTdLTkVDTUYzczU0RVN5cVNWU3NlQzBnWGxLSlpRQmRnUWtrSFpDMlVDa3FIYi0tT2R3QVhkakdGQUEtM2JlUEFud1Q2dDFKTzZFNUxQajFaTW1XOFk5YVhBS2pEVDQxTm4yeW9uV05BUVN3OXl0SlZkaDBoMk92cHlzOGtB?oc=5",
-      "source": "WorldCargo News",
+      "source": "worldcargonews.com",
       "category": "Climate Tech",
       "published": "2026-09-30T09:31:05+00:00",
-      "image": null
-    },
-    {
-      "title": "South Korea Meets Emission Target, 2030 Goal in Doubt - chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcS1LbnppbGlqbV9hQkduZTVvd1lUMkt4eldMZGFjcjV0VVhzSmpSb1BVcGlGQ1VORzY0b0s2UHdMZzJ4cTJSWDAtTjBxODJ4aEktVHRxa0JKb19oR3d0bEJNVk1IWjNlR3JSWXBDT0NoNWhHVkJiVGpVRldYUFBtUDJoRnlUd3hT?oc=5",
-      "source": "chosun.com",
-      "category": "Emissions Reduction",
-      "published": "2026-09-30T08:36:44+00:00",
       "image": null
     },
     {
@@ -107,19 +91,35 @@
       "image": null
     },
     {
-      "title": "MENA battery storage market set for rapid growth by 2030 - study - Renewables Now",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWgxRjMwY19CRnZPRTdIVC00TEcwZ0IwREF1WkdCRUVZbm4wd1I0UzdXSHZwcHVqR09RNm5kWWNSRVhyQjFaN1RPN0YwdXVOc0NFNnhQMW5Sb25tOEVwU2VEOVhoLTVWMnJYRG5tNldPZmRoOWtBQUwtMXRMZHJzTDY2R3E2TVdvOFFoeGtndXN1VFNad0dNdkRYem5LN05oc1gzOA?oc=5",
-      "source": "Renewables Now",
-      "category": "Energy Transition",
-      "published": "2026-09-29T09:52:38+00:00",
+      "title": "Harmony evolving to independent wheat sustainability initiative - World Grain",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDJlOVhkRWRnUS1NM3JmcEs4amhpeS05bDhhdzZjb3NsRFNkbFlWYjZPTThSZWFEWFdzQ0xUQ1hPMjZnU2Y0TFJ1WU83QWdYN01Ld0lMSnJQNWRoS0x5eTV4QUxrUmFQM0tjbmNmd2kxd1I5aTFYRmdJaUp6TmZNRjFGSGJ4YU8yQUhMQWsza0ZKOGYwNmItb0VlNzUyTG9xX2o5ZGptRlBHdw?oc=5",
+      "source": "World Grain",
+      "category": "Sustainability",
+      "published": "2026-09-29T13:07:40+00:00",
       "image": null
     },
     {
-      "title": "Definition of ultra-low-carbon fuels for a potential U.S. West Coast green shipping corridor - International Council on Clean Transportation",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHVjdGlDUjgxNnpSOU5ZT2dMUlBsTV96TllNR0p1U2dncG80ejVWalRzLVZoRVVVdFpudHFjOGNHZHNTc0M0X1FxMzBOZ3JpYms2d0EtQ0cxTFdjSmJWSnItNmJ4SXFpTUktakt5SjllR0lMb2c2Tmd2Mll2LWNSREpUNEdqdVpYVjN5M2F0RHhKRU9wTDk0VTVvTW9LYzN0emhhNzVkM3FpbGJxOTF1WFhtT3UyekZhMDNFUjdLUVVOMzVQMFRJZWh3?oc=5",
-      "source": "International Council on Clean Transportation",
+      "title": "New imaging technologies offer a clearer view of coral reef change - University of Miami News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFZyUDNxVjY1X2Zxam5VeVRhbnU3QzVnRjVpUThNT2I2Sm4wX3RiQlg2Zy0tamhkdlhwYjZuOXNmZ0xrdnRJS3RBOGtqQTNSMzNucHRpVG9tNGtKeE01UXl4LUhrendSVWZ2Z2ltS1I3YmNjVFFSalctcXVXOThORzhvX3NBMFBqaERKZnRYNko4LWtrUUdIRFlQbHhBYjhyb05TcHBGYmo3ckZYeUtqal90QUlaZ0J0d0V1Z2lB?oc=5",
+      "source": "University of Miami News",
+      "category": "Environment",
+      "published": "2026-09-28T19:06:57+00:00",
+      "image": null
+    },
+    {
+      "title": "Reducing Value Chain Emissions - About Nike",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE1HTDBhSTBMdFB5di10ZlBNakt6ZFhwNXB0LU4yVDVNbnR1T2t2Y1JYR0ZXakdUNlJpSENsSVJDX0VpZjZIUmY3OE9xRFdVTGVZU3hNUEk0cThJSmRfZFRPa3FKaUVBS2E1cVdxSXNRSXpRYVV5bXN3OHpQM1NzLXN3?oc=5",
+      "source": "About Nike",
       "category": "Emissions Reduction",
-      "published": "2026-09-29T07:06:05+00:00",
+      "published": "2026-09-17T21:25:01+00:00",
+      "image": null
+    },
+    {
+      "title": "Collecting the stories of Aotearoa's plants - Wellington City Council",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTXF5MWN5TmZIM0tCLWZwSjlaUTdvdV9RSFJqQkhJNWpfd3VBZURUSWhnZTVrcWhpNlR2WlVWbW1ILVJ4SVlvSTI3MUpZaFE5eEVCQWxISlBJSHRZSVBPVk9zVkhpc2lmX2ZRQ3haMHg1OGtpeE4zb0U0dS1sUXJmVkc1UmpWaTJoNHU5d0pKcEZLaHE2XzJsU01QZnVWWEJ1TXFwdFNQbkx3bUMycTdWMHpqMWg4TUpiNzI5dkR1allPbllhZUZqX09rRndRQ0NrVFBsbg?oc=5",
+      "source": "Wellington City Council",
+      "category": "New Zealand",
+      "published": "2026-09-16T07:00:00+00:00",
       "image": null
     }
   ]
