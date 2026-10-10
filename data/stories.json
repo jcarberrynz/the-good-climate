@@ -1,21 +1,117 @@
 {
-  "updated": "2026-10-07T05:19:57.540588+00:00",
+  "updated": "2026-10-10T05:17:12.063637+00:00",
   "count": 15,
   "stories": [
     {
-      "title": "Against the odds: why some ecosystems thrive - EurekAlert! Science News Releases",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95X0t5b1l4NEdGU1N3bDRwZ1dwamx5UUVudW9GWTg2UEdJOGRTTWM0RUVwMHd1OVBTWmFqZTVmQklTNlBESjJabFZLdWdXVEZjdTZqZ2U2eThGbjVK?oc=5",
-      "source": "EurekAlert! Science News Releases",
-      "category": "Sustainability",
-      "published": "2026-10-07T00:24:06+00:00",
+      "title": "Climate Tech Funding Strengthens in Third Quarter - Energy Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHS1c1cTFlcWMzaDhTOWJKVkRObUJYdVhra0ltTTNEOWs1eURfUS1MU09GeEhRdUlvcHJyclVfck1NQVR4djhEV2FTRmZZX2g3d2l2MFFpQzZ3QXNXSGJTNVJMUThwOUs1ejJydl9fVEhrQQ?oc=5",
+      "source": "Energy Intelligence",
+      "category": "Climate Tech",
+      "published": "2026-10-09T21:34:58+00:00",
       "image": null
     },
     {
-      "title": "Sustainability reporting does not guarantee sustainability progress - BusinessGreen",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmlyZXBya0U5ZmNaeWxFbWNqeWozbjVjTkZmUU04YzRHdUwyMEVjVzlVRG5jRXRxM1UzLVZLMHJjWk1BSHZGZkctaDM4S1Jwd2E0bWJxVVAtZGdqcl9Eb2lCRk1ScUFGNmRwbGdhd1pjM2NwMEh4TTF2UzBRSTQxRWxqZ3E5ZU1LYXFDOWZrcHBSZWNldDAwN205bnRpckowQVZjWWNMMA?oc=5",
-      "source": "BusinessGreen",
+      "title": "Middle-schoolers meet recycling milestone - The Farmville Herald",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3pId1FPNWdCVTZJU2F5dkNFa2FkcklsV2ZaUXdsakdPNkwwcVNILXlGU0FqdnBOQWxKY3J5bjFxRzY3YmVLSjFEVFFucnZEaVJkajR3ODdLY0VaaVctZFU2bzVlSTU0STRHbDVfWjlsUGRLOTNoN3AwSG9PaDhIZGlwb1c?oc=5",
+      "source": "The Farmville Herald",
       "category": "Sustainability",
-      "published": "2026-10-06T23:01:17+00:00",
+      "published": "2026-10-09T20:41:45+00:00",
+      "image": null
+    },
+    {
+      "title": "Uruguay Unveils First Green Hydrogen Pilot Plant Launch - Fuel Cells Works",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUkzVWNRUzhYTGJySmtFYmtaMGtRbUV3VEdINTRiQ1R2d2hFNkNXamtVa1c3UFg5YlhVY1BiX2FWWW5jTkRRVGpMaC1kQVhmNklkT0JiY0Y5NVFhN1VVTm5DdTNlNzFsUUl1cDJLUllJb1pjYzZ1em1qVTVlMVBDNzluMXp0b09ibm8tNHVBVC0wRjFpWWVGb01VSDBMdkFCdV91Z3JDdmM1ZmN1QVg5dWI2aw?oc=5",
+      "source": "Fuel Cells Works",
+      "category": "Climate Tech",
+      "published": "2026-10-09T15:08:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Dc Switchgear Market Forecast to 2035: Growth Accelerates on Solar, Storage and Data Center Demand - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTRZNFczbGxDQUwzSS1UZDh6VVdkXzdCWkktZW9kVjhsR19DSFNIVm56VWJ4UldKUUItX1NYTGd4dEpuYmppMGNWdDNWY3JiVzNPNWFVX1pLY3JGbUU3Z0VBN1QxMmJSdDRMZWdIaVBjNW5FaUJUVklYcnR2azU3MXJaMUo3bnZ0STJGTXlXcmRwbWV4LUZsTnBDV0RMLW14aDZsRktidDNoYnlPd2tmSVZkWHd0YU9LQXFzaTVxYXlNZEVu?oc=5",
+      "source": "IndexBox",
+      "category": "Energy Transition",
+      "published": "2026-10-09T13:21:04+00:00",
+      "image": null
+    },
+    {
+      "title": "SolarMax Q2 Loss Widens Y/Y on Legal Costs Despite 49% Revenue Growth - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUxhYU5KMGkybHNkdzl1dTRqd1NoVlNhXzlBWThiZ2V0VUlmekxvWjVLLWlCOG9iRG5uczliRVpsSV9wQUNZWm1uNXVIbHVlQVJaUWNEQXp4MDdRTkNIQ1h4OThyZUpPeWVrckVVRHk0d0RJS21hX1YtVjNlSHFlTUFnd0RtRGh1ZmU4ZUU2bi1HMThjUzR2dk40TmhtdmdzQzQ4RzJaTGhneHBHUW5zTzFpWlVKZExOaktFOTgyODFWUQ?oc=5",
+      "source": "TradingView",
+      "category": "Energy Transition",
+      "published": "2026-10-09T13:17:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Local Opinion and Involvement Found as Key Determinant in World's Conservation Success Stories - Good News Network",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjU1WWZ3WExWX05CU1c1SHA3ZkFrZ2pya2xwWDA2Wi0xWWdpRGxpTURzUjRXZVNESW5qTTVVemF0c3BEM1NsMVplQV9yckktZEdLMGlDSG1uUFo3ZEN6R0VWYUR6RFFaN3ZXY1Y0NUhaY1dSOWVFTG9INDFSb1FYWGdCWUdrWExTNkZCeHZVakxKaEk2cjlNa3lQNzlEampzcDFFU3VVUmJ2SWJXQUgzZ1JBX21SR05mUXB0SnJMUXBoYU42?oc=5",
+      "source": "Good News Network",
+      "category": "Sustainability",
+      "published": "2026-10-09T13:00:08+00:00",
+      "image": null
+    },
+    {
+      "title": "‘Battery breakthrough’: Researchers use new material to make lithium-ion batteries safer - www.investigatetv.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkszZlhkSS01Q1hvbHlCakU2bFdZOUdvRWI1TklYNWVaVC1NQ2l5cDRjb21zd2pMdndiSFNhWmdvZ3E5RzJHLUVXakg1dHNKY09QZ0tXSHVlMm1QX1hheWlPaGl3U0dHUWw4MkM2Y3NmODVzdkVrR0EzeUZVSWhnVndONkM3OGwxSERJUU1Wd1hzXzREc2ZhXzVzbUVYQm9GektRSzBIY3FlcVJqNEtOeGF2STNKZ3lUa0pOSUhXZ3FlZw?oc=5",
+      "source": "www.investigatetv.com",
+      "category": "Climate Tech",
+      "published": "2026-10-09T12:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Henkel Consumer Brands accelerates sustainability progress by adapting proven solution - Capgemini",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZG9VQTRCUzA5Y3hyeS1icEs2ckxtNHRNdkZrNkhISF9vVjhpYUZsb2hzV3YxN0xMcGxQZHRRNTBwb1BNT0pGZEFkRkNCUlpnTG9fNVhoMmd5Vl96V01LcmZGdl84M1V6NFYxYVEzWWFMMUc3a19WT1JfcUdvZkpyVS1XZ2NLbE1LaW9hVERWeUtOeWNkbVVURklUbGNWZ1ZscFpLV29BREsyU2R0T0d1a0NxXzRyeGtKc0JBUmJFeXhlNmtfbGFvU0FPMHZTeFFlamcwZnBn?oc=5",
+      "source": "Capgemini",
+      "category": "Sustainability",
+      "published": "2026-10-09T11:33:07+00:00",
+      "image": null
+    },
+    {
+      "title": "Low-Energy Fridays: President Trump = Climate Hero? - R Street Institute",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LY1gzcExzR1JySGFXUkZjcnFfRDVOc2FMUnpIX3NVV3ltbUUzZXUzX09WMUhmQWVfUnBudHFyR3pweUFjSXFsaU1NSVBPSHlJaTBmNDV1ek5xWU5fY25keENnUnU?oc=5",
+      "source": "R Street Institute",
+      "category": "Emissions Reduction",
+      "published": "2026-10-09T11:12:04+00:00",
+      "image": null
+    },
+    {
+      "title": "Experts played fish noises to a degraded reef in Hawaiʻi. What happened next was astounding - BBC Wildlife Magazine",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkNueS01UlJGVW9lSmNsVlF0Z3Zqc25ONGFhd0h0bW1fT3J3cEtRZnBLSVFtMDhtR09kOGJldVY0TGUzVDE2VDJBbU41a3FZR3I5bW9vbUdES1VLN0NiTERuaXNfeDZ1ZE1vYnVWZ0RZMmtya2MzMFBhWF9qelFmRHVuaHVXSl9PMjF2SlNaYm0yTzJQWVhzZF9VT1oyS3c?oc=5",
+      "source": "BBC Wildlife Magazine",
+      "category": "Environment",
+      "published": "2026-10-09T10:02:32+00:00",
+      "image": null
+    },
+    {
+      "title": "CMA CGM and DSV target 12,000 tonnes of CO2 cuts through low-carbon shipping deal - DatamarNews",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWS1fQXc2SktXRnRCZ0lsdkY4clNNekVRbEswWi00Y3QzTE1OV1oxTUxya0E2RmU0LXFsZWlWTFg5ZjlSakpRa0hWbkFMc09rcy1raGN3R0ZPZFAwa0VGWGVqN2JiYjNZNDJjV0FiZmpzU0RUNmdhWTNVLXRzOWJObjdESTF6TENTQkFXSG9SeXpwRUhzd2huTzZKcS0yOFU4NDZvb1FGQ0tNRzAya2VSbEVWSmQ?oc=5",
+      "source": "DatamarNews",
+      "category": "Emissions Reduction",
+      "published": "2026-10-08T21:16:29+00:00",
+      "image": null
+    },
+    {
+      "title": "Healthy reef sounds can boost coral and fish recovery efforts - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5icjIwdFhzYkdNTWVwYW9BUThBQTE5c1JaTTJwX0Nhck5nREtIT3JlYzFob0hCTUIxTUwtdVIyN3dzX05rYVdtOTVqRmotZWtITUVQR0NvRzFNOGlXRndEbjFxZmk4cVlJR3JLVjlTeFliZw?oc=5",
+      "source": "Phys.org",
+      "category": "Environment",
+      "published": "2026-10-08T09:00:14+00:00",
+      "image": null
+    },
+    {
+      "title": "DSV to use CMA CGM’s ACT+ solution for lower-carbon shipping - Logistics Update Africa",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2RYbkhpZkdIVlJJVFBPamRpVWRpZFMySWdFcGdMMjFHYW5wMzJWTHRDUWFwMld5eWkzOHUtUks2cnZyeWJFQ21SdkVHc3pfbUxQNHF3TjFFYnVVMkg0bVZ3bVhDQ2NjcW1UYWpDXzhrYjNYY0ZmbFFxM0RmX0VsSDZ5aFN6aGx0YzFtWkkzeDhfZ2ZjbDJWNHNIYTZRa3B3M2VaR3ZCanlSOVHSAbABQVVfeXFMTUlobDAzTjdsdjEtZGgxR21aRU9xTy1OYzc4ZUxTYkh5ZlBGZFNESjctZTgzenVpZWlZd3JGUElCMjNiUDNnSVhWbXo0bWpYZWo1NTg0elhpVElRcXF1YTZtSEFwZ3N2M1JESjlGRy1OQV95ckNjdjNiNHVWdlN1MGIxbGtQWXBEWnlEZjV4ZFlKcnpITW5ZYzN5OHJUeV9rN3N4X2I0SmJxZnVXSzdRX2I?oc=5",
+      "source": "Logistics Update Africa",
+      "category": "Emissions Reduction",
+      "published": "2026-10-07T14:56:37+00:00",
+      "image": null
+    },
+    {
+      "title": "CMA CGM and DSV strengthen their partnership to accelerate low-carbon shipping through ACT+ - CMA CGM Group",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFd0Sk5BMEN5R0VLVDVfV3VLTHNfREh6Wnp2UW1qbWFNdG1pdXNDSWJIOU5aRVAzS2JBQTJZODZvaUNxQkRzYzNsdmQ3cFNwNVIyTW9BMFlvSzFseEpWaGtDU28wdkl6VEV3b3JxUnhFY1FVSXgweThkTW5icG02Z3ltUlhUUlY1RmkzemVWSlZSeldjb2puRE9SbTZYbUlIRXlTaG1Ic2NudHQzUUhBbGd5WGEwQQ?oc=5",
+      "source": "CMA CGM Group",
+      "category": "Emissions Reduction",
+      "published": "2026-10-07T11:48:57+00:00",
       "image": null
     },
     {
@@ -24,102 +120,6 @@
       "source": "PR Newswire",
       "category": "Climate Tech",
       "published": "2026-10-06T20:59:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Why Brazil’s battery storage sector is even more confident about growth - BNamericas",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmUwOFRXNzFubEVZajhyZXVRbV9wSDQ0dHIxOEtkYUNleVVaTExxNm9URHRfbi1JcE1wXzVORkVobWJBUVVRVjZ1VWFKWjFyR3BNaTMySFdiaUdmRmdkMnZXSGtTT0tOQXVyNV8wc2Y3dy0wQjlWYUxkMzZrUndrLTZtR2xvZ21FeVpQNGJQN3M3N1psQkJfd1BqUFA5aWVGd0hOOG9zalZ5bmZGeHc?oc=5",
-      "source": "BNamericas",
-      "category": "Energy Transition",
-      "published": "2026-10-06T19:58:59+00:00",
-      "image": null
-    },
-    {
-      "title": "Advanced Battery Market Forecast to 2035: Stationary Storage Demand to Accelerate Growth - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLV9TNzdvZndiOEcwU0lDMG1TWFYzZDM3NVdid25GMmcweGJ2Z1BQU0J2VGRQS1RYUWJTbkl4MFJNZlQwUFJ2VWpHWDY4WFp6Nllha3JuaVFCbzZhZlB0UzY4RzEzUV8yamJBbXZNbmE3LWVvOFRwNHlCdnFEUFFGem1YZEJUNFJGN3RzNDdtRDF6cGQwRjd4ZjdSa1piYkpzSmRPSl9iNmxuT2NjMHJuTmF4U1M4a1Jv?oc=5",
-      "source": "IndexBox",
-      "category": "Energy Transition",
-      "published": "2026-10-06T19:06:03+00:00",
-      "image": null
-    },
-    {
-      "title": "CPBRD: Climate budget cuts imperil low-carbon shift - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlZiT2xDSG9FR1NyQ0M0T1AwNUJmdzJ5Q1Q4X2l1UXluX01rU1FGSjBJbXh3dXdNVElkZ1pxRl9QbEF5WHBnTUF1cko4RDJuYl9qYXVLZ2NfYUlTY1ZPQWxoQkEzZHRTOFZ1bkVHS2FQY3VFZmhjTVI4ZC1JeUtrM2Nzd3J2bUFQMnZySlEySWXSAZYBQVVfeXFMTkZ2VC1YaDV6dUpWOTlYUWhzSHJRSGVfMjhCUU5hV3pQYkRTUzFMYjl0empkc1haanc2bWRtY0NES1hGT2RuSS1fRUJXdWdRWTZoM1JPOFE4a2NSRk9mNE8zUC1CM2lkQWR1QVY0R1BEX29JNWpENXViamI3SXZXSHVlaGVvUTc2ZU5GNTZmTVNXVFY5NzV3?oc=5",
-      "source": "Inquirer.net",
-      "category": "Emissions Reduction",
-      "published": "2026-10-06T13:45:00+00:00",
-      "image": null
-    },
-    {
-      "title": "ENEOS Launches 1.2MW Green Hydrogen Plant for Clean Energy - Fuel Cells Works",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXy1Qd2VoMGgwZ0dNai16SWw4M3ZOT3ZhcEQyaUIzNU9nYzJtdWVidEtUVUliOUxlLW9Qa1A5Um5iZS1vbFdvQVdLY1pRU0tJOXdpb2tGQWR4OU5vLWxObmVYNGM1cXZiTVlmTkRGbHhHT3JTaXpoRWVNX1BLdHdxb0NHMkJDcGwyVklWT0JZREQ2SnVxd2drUHA1UlRFVGZkMVc4NUxVZmhNUFJ0d0tBeE9NdFU4STQxMzhr?oc=5",
-      "source": "Fuel Cells Works",
-      "category": "Climate Tech",
-      "published": "2026-10-06T13:13:00+00:00",
-      "image": null
-    },
-    {
-      "title": "PSEG report details progress made on sustainability initiatives - Daily Energy Insider",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFJuemVnZ004QUhVTDRIamhFd0xoYlFjbFlDYXhFX0cza3M5U1pBYkVMbnlKa3B6QnlBSXhpcmRSVFFBckVKZk12RlRib2pwMlppbXB2YlM4WVRpMGpYWE5CNGh2aVFGOGFVZWZJSXdkSmNJQU01cUZTQVRDVFJidURnRUxudkk5T3NnOVFITEJPQldnS2lSek1lWnhPbkNmQ2tpRVFuOFBOZw?oc=5",
-      "source": "Daily Energy Insider",
-      "category": "Sustainability",
-      "published": "2026-10-06T11:44:55+00:00",
-      "image": null
-    },
-    {
-      "title": "Actis adds 244MW / 1,141MWh battery storage portfolio to Polish platform within three months of launch - Actis",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXlRYlVwMjZyaHZVSUZVLUdnYVRTdm42VTNFTTJhYXhEaHZVWXh1Wk5mdXF0cDNUd1otUU8yUmw5VW1Uajc3TjcxVk1Id2o1UVZtdDA5RlF5MlFNWEZfVU9WZUQ4QUdPbEZHY1otVS02czB1akFIWmp2RWtHUVA5ME5xdHM2d1laRlNDTndPMVk5UHN6dkxVSWpqWlhuV3gxNWM5bm91dUk1eFh6dVZwLUluamFrQTkwNjc2ZWZ6RXpmSlk3Z0Nrd2FR?oc=5",
-      "source": "Actis",
-      "category": "Energy Transition",
-      "published": "2026-10-06T08:00:54+00:00",
-      "image": null
-    },
-    {
-      "title": "Set in stone: Holcim and 44.01 carbon storage breakthrough - Holcim",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kVTBkYi1rV2d6SldFdjNkRWNSd1AweDl2b25JU29DdW1lTzBHdy1hNzZfa1pwT2hwOHcwRG1pNkFaX3BtbUwwaEJXbUlsZnJlS0tDWFRNSWRlaGJ0bVczX010VEtNN2tHdzY5TTB3dw?oc=5",
-      "source": "Holcim",
-      "category": "Climate Tech",
-      "published": "2026-10-06T06:59:30+00:00",
-      "image": null
-    },
-    {
-      "title": "Orphaned, Rescued, and Rewilded, Female Gorilla Becomes a Mother in Historic Conservation Success - Good News Network",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWhZWW0zbk1sV2h6MmRKX0hkZDZrUGx4R0FmRFhpS2JtZXBtRXdER2g2ZmE2RFVUa01RWHZEOGdpQjJWTVBLNkFxMk1ib3A0TkNOM3A4STg3RUZUWUlVMF9hdm9lNzVGZlVpZUpfYmxRdXZaWHpwWXFMMmI2TUlyeDBDdnk5MERCNlFEUUgyVUJOd0NFZ3o5bzU1MWdnNFJ5RGtsMGY2NlhweWY3LWgwM0k1OFIydThVQ2VjbDRnSUlrRDEzN1E?oc=5",
-      "source": "Good News Network",
-      "category": "Sustainability",
-      "published": "2026-10-05T11:00:53+00:00",
-      "image": null
-    },
-    {
-      "title": "Solar-Plus-Storage Market Size & Share Report, 2026-2033 - Grand View Research",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdHBya0hKM3ZKN3E5WUpoSTl2TUlMVWpPU1BlbDBZV0huRGEzNUNFVTRzUlRGSE5ETWhkYjJQazBnNEZ0Z0o4T3Y5YkEwTlkzQURxNkJLbTJGTUxHTUZqem0yQnhnNmpYWnVSeDZKOUV6ZE5nTTRoWGU1LWRXcVlUNTBVYTVKYy1SNUdqVg?oc=5",
-      "source": "Grand View Research",
-      "category": "Energy Transition",
-      "published": "2026-10-05T09:37:51+00:00",
-      "image": null
-    },
-    {
-      "title": "Washington climate tech founders score funding as AI boom drains investor cash - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzVUc2UtQXJQd3Q3YjROUS1SOUUtUTRaVmhQZVRybVlaVXRFZ09Yc2t0M1lkbk42YVl2d2plRU14ZVpqRFBUUjZuRzgtYXRvczVRWGRXa3VraFRmY05sX0VjUHFKM0JlWnpTLThIUmpLYXhFdHNOVFhZbm45LWk5d3N2U1VfZDZ0T0M2MEpSVWpSV2VQYnBrZzJiRmQ0VWNWemJzaWJpVHl0VWx4VlE?oc=5",
-      "source": "GeekWire",
-      "category": "Climate Tech",
-      "published": "2026-10-03T21:01:23+00:00",
-      "image": null
-    },
-    {
-      "title": "New imaging technologies offer a clearer view of coral reef change - University of Miami News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFZyUDNxVjY1X2Zxam5VeVRhbnU3QzVnRjVpUThNT2I2Sm4wX3RiQlg2Zy0tamhkdlhwYjZuOXNmZ0xrdnRJS3RBOGtqQTNSMzNucHRpVG9tNGtKeE01UXl4LUhrendSVWZ2Z2ltS1I3YmNjVFFSalctcXVXOThORzhvX3NBMFBqaERKZnRYNko4LWtrUUdIRFlQbHhBYjhyb05TcHBGYmo3ckZYeUtqal90QUlaZ0J0d0V1Z2lB?oc=5",
-      "source": "University of Miami News",
-      "category": "Environment",
-      "published": "2026-09-28T19:06:57+00:00",
-      "image": null
-    },
-    {
-      "title": "Reducing Value Chain Emissions - About Nike",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE1HTDBhSTBMdFB5di10ZlBNakt6ZFhwNXB0LU4yVDVNbnR1T2t2Y1JYR0ZXakdUNlJpSENsSVJDX0VpZjZIUmY3OE9xRFdVTGVZU3hNUEk0cThJSmRfZFRPa3FKaUVBS2E1cVdxSXNRSXpRYVV5bXN3OHpQM1NzLXN3?oc=5",
-      "source": "About Nike",
-      "category": "Emissions Reduction",
-      "published": "2026-09-17T21:25:01+00:00",
       "image": null
     }
   ]
